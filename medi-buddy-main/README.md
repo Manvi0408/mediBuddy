@@ -33,4 +33,4 @@ MediBuddy is an intelligent medicine recommendation system designed to help user
 "An AI-powered Smart Medicine Recommender built with Streamlit, helping users find alternative medications with a seamless e-commerce experience."
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
