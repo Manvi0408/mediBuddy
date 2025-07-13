@@ -3,6 +3,8 @@
 
 MediBuddy is an intelligent medicine recommendation system designed to help users discover alternative medications similar to their prescribed or preferred medicines. Leveraging advanced machine learning techniques, MediBuddy analyzes a comprehensive medicine database and provides personalized, accurate recommendations based on similarity metrics.
 
+live on -https://medi-buddy.streamlit.app/
+
 
 <img width="1920" height="907" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/d605f51e-0bc6-4db7-b63b-f113bafae5c2" />
 
